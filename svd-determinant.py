@@ -86,8 +86,8 @@ buffered.seek(0)
 
 # Кнопка для скачивания сжатого изображения
 st.download_button(
-label="Скачать сжатое изображение",
-data=buffered,
-file_name="compressed_image.png",
-mime="image/png"
-)
+    label="Скачать сжатое изображение",
+    data=buffered,
+    file_name="compressed_image.png",
+    mime="image/png"
+    )
