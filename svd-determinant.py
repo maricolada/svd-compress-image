@@ -1,7 +1,4 @@
 import numpy as np 
-import pandas as pd # type: ignore
-import matplotlib.pyplot as plt # type: ignore
-import seaborn as sns # type: ignore
 from skimage import io # type: ignore
 from PIL import Image # type: ignore
 import streamlit as st # type: ignore
