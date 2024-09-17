@@ -1,5 +1,4 @@
 import numpy as np 
-from skimage import io
 from PIL import Image 
 import streamlit as st 
 import io
